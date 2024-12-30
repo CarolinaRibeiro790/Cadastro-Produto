@@ -1,0 +1,35 @@
+# Ignorar diretórios do sistema
+Ambiente de Impressão/
+Ambiente de Rede/
+Configurações Locais/
+Cookies/
+Dados de Aplicativos/
+Menu Iniciar/
+Meus Documentos/
+Modelos/
+Recent/
+SendTo/
+Desktop.ini
+
+# Ignorar arquivos de usuário
+*.docx
+*.xlsx
+*.pdf
+*.log
+*.ini
+
+# Ignorar diretórios específicos
+AppData/
+3D Objects/
+Contacts/
+Documents/
+Downloads/
+Favorites/
+Music/
+Videos/
+.vscode/
+.node_modules/
+
+# Ignorar arquivos de build
+target/
+dist/
