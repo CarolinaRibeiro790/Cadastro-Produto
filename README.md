@@ -5,7 +5,7 @@
 
 Este é um projeto desenvolvido para a faculdade, utilizando o padrão de arquitetura MVC (Model-View-Controller), com a linguagem Java. O objetivo do projeto é gerenciar os dados de um supermercado.
 
-## Sobre o Projeto
+## 🚀 Sobre o Projeto
 O projeto simula um sistema de gestão de supermercado, com funcionalidades básicas para cadastrar, alterar, excluir e visualizar produtos. A aplicação segue o padrão MVC, que divide a lógica da aplicação em três componentes principais: Model, View e Controller.
 
 ### Model
@@ -17,7 +17,7 @@ O projeto simula um sistema de gestão de supermercado, com funcionalidades bás
 ### View
 <li> A View exibe as informações ao usuário em uma interface gráfica desenvolvida no ambiente de desenvolvimento.
  
-## Funcionalidades Principais
+## 📝 Funcionalidades Principais
 1. Cadastro de Produtos:
 O sistema permite o cadastro de novos produtos, como nome, preço, quantidade em estoque e uma descrição.
 
@@ -30,7 +30,7 @@ Os produtos podem ser removidos do sistema de forma simples e segura.
 4. Visualização de Produtos:
 Os produtos cadastrados são listados em uma página de exibição, e soma o valor total de todos os produtos cadastrados.
 
-## 🚀 Tecnologia
+## 🛠️ Tecnologias Utilizadas
 <li>Java: Linguagem de programação usada para a lógica da aplicação.
 <li>Arquitetura MVC: Divisão da aplicação em Model, View e Controller
 <li>Apache NetBeans: Ambiente de desenvolvimento utilizado para criar a interface gráfica e lógica da aplicação.</li>
